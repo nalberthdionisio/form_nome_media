@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: rgb(47, 79, 109);
+}
+
+div#formulario{
+    width: 500px;
+    margin:100px auto 0px auto;
+}
+
+div#formulario h1{
+    margin-top: 20px;
+    text-align: center;
+    padding: 20px;
+}
+
+#campo{
+    margin-left: 18px;
+    margin-bottom: 5px;
+    border-radius: 30px;
+    border: 1px solid black;
+    height: 30px;
+    width: 450px;
+    font-size:15px; 
+    padding: 1px 10px;
+
+}
+
+#botao{
+    margin-left: 140px;
+    height: 30px;
+    width: 225px;
+    font-size: 15px;
+    background-color:green;
+    border: 3px solid green;
+    border-radius: 30px;
+
+}
+
+
